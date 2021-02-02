@@ -294,7 +294,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "AUDIO\nCam Chiaz\n\nART\nTheo Fr\xE9chette\n\nCODE\n\xC9tienne M\xE9nard"
+  m_text: "AUDIO\nCam Chiaz\n\n\nART\nTheo Fr\xE9chette\n\nCODE\n\xC9tienne M\xE9nard"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5d1d4fbbc8b0fd419c5ef895a578db5, type: 2}
   m_sharedMaterial: {fileID: 5995651761183633212, guid: f5d1d4fbbc8b0fd419c5ef895a578db5, type: 2}

@@ -195,7 +195,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1265272509
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: cecfcae22c3bce747a2ad4623ebb8d1e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2431,7 +2431,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1265272509
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: f76dcd00cff40ac4ca602f11734fd26e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 447826661}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a3f4bff11cc02c145b408c49d7596451, type: 3}
+  m_Script: {fileID: 11500000, guid: a67d4ddbd9483f7459024912cdfb8aa6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   currentHealthbar: {fileID: 1854138496}
@@ -4139,7 +4139,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1265272509
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 4101f6cbfeb18e341b639e3ec4da9127, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6188,13 +6188,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 926914217}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb730a3488307c84dbdf37e95ceeceba, type: 3}
+  m_Script: {fileID: 11500000, guid: 2b8c187369344784c8c86b72f4977080, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   lookAt: {fileID: 447826664}
-  offset: {x: 0, y: 7, z: -10}
+  offset: {x: 0, y: 10, z: -10}
   enableBounds: 1
-  bounds: 10
+  bounds: 3
   enableSmooth: 1
   smoothSpeed: 10
 --- !u!1 &948298714
@@ -6934,7 +6934,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 178188635b3ad444fbe924f9cd014931, type: 3}
+    m_Font: {fileID: 12800000, guid: 49cc1a9ea799535428e8ae8f77604b54, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
@@ -9845,7 +9845,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 178188635b3ad444fbe924f9cd014931, type: 3}
+    m_Font: {fileID: 12800000, guid: 49cc1a9ea799535428e8ae8f77604b54, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
